@@ -1,0 +1,552 @@
+D:\bf2editor\Code\BF2\Core\Profiler.cpp(720): Calibration of profiler took:8.59368e-006 seconds
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(77): Event 1 in cat 5 registered as ECCoreCEChangedSetting
+D:\bf2editor\Code\BF2\IO\Console\Console.cpp(1402): (0) Wrong syntax!: --- RISING FIXES AND BRANDING ---  (clientarchives.con)
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\Console\Console.cpp(1402): (0) Unknown object or method!: ***fileManager.mountArchive Rising/Branding/Menu_client.zip Menu***  (clientarchives.con)
+D:\bf2editor\Code\BF2\IO\Console\Console.cpp(1402): (0) Wrong syntax!: --- DOOMSDAY AND NIGHT MAPS ASSETS ---  (clientarchives.con)
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/sound_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/sound_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/sound_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/sound_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/sound_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/sound_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/sound_client.zip"
+D:\bf2editor\Code\BF2\IO\Console\Console.cpp(1402): (0) Wrong syntax!: --- CHRISTMAS EVENT ---  (clientarchives.con)
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/seasonal/christmas/menu_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/seasonal/christmas/menu_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/seasonal/christmas/menu_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/seasonal/christmas/menu_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/seasonal/christmas/menu_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/seasonal/christmas/menu_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/seasonal/christmas/menu_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/seasonal/christmas/sound_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/seasonal/christmas/sound_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/seasonal/christmas/sound_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/seasonal/christmas/sound_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/seasonal/christmas/sound_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/seasonal/christmas/sound_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/seasonal/christmas/sound_christmas_client.zip"
+D:\bf2editor\Code\BF2\IO\Console\Console.cpp(1402): (0) Wrong syntax!: --- BASE GAME ---  (clientarchives.con)
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/effects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/kits_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/kits_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/kits_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/kits_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/kits_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/kits_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/kits_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/roads_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/roads_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/roads_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/roads_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/roads_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/roads_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/roads_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/soldiers_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/soldiers_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/soldiers_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/soldiers_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/soldiers_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/soldiers_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/soldiers_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/staticobjects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/water_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/water_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/water_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/water_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/water_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/water_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/water_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/vegitation_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/vegitation_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/vegitation_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/vegitation_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/vegitation_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/vegitation_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/vegitation_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/weapons_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/weapons_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/weapons_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/weapons_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/weapons_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/weapons_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/weapons_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/vehicles_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/vehicles_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/vehicles_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/vehicles_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/vehicles_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/vehicles_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/vehicles_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/items_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/items_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/items_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/items_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/items_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/items_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/items_client.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:common_client.zip path:common/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/menu_client.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:menu_client.zip path:menu/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/fonts_client.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:fonts_client.zip path:fonts/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/sound_client.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:sound_client.zip path:sound/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/fix/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/rising/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/rising/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/rising/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/rising/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "rising/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/effects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/kits_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/kits_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/kits_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/kits_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/kits_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/kits_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/kits_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/roads_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/roads_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/roads_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/roads_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/roads_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/roads_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/roads_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/soldiers_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/soldiers_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/soldiers_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/soldiers_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/soldiers_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/soldiers_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/soldiers_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/staticobjects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/water_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/water_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/water_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/water_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/water_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/water_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/water_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/vegitation_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/vegitation_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/vegitation_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/vegitation_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/vegitation_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/vegitation_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/vegitation_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/weapons_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/vehicles_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/items_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/objects/items_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/items_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects/items_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/objects/items_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/objects/items_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "objects/items_server.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/menu_server.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:menu_server.zip path:menu/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:common_server.zip path:common/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/sound_server.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:sound_server.zip path:sound/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bfheroes/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "hWndBf2TempSlt" in added (default class: "Unknown ID 0")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "rodSpecial" in added (default class: "Unknown ID 0")
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(77): Event 1 in cat 11 registered as ECRendererREToggleFullscreen
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(77): Event 2 in cat 11 registered as ECRendererREChangeResolution
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(77): Event 3 in cat 11 registered as ECRendererREPreChangeResolution
+D:\bf2editor\Code\BF2\RendDX9\RendDX9Enum.cpp(753): Video Memory found: 0 MBs.
+D:\bf2editor\Code\BF2\RendDX9\DeviceCaps.cpp(416): Description: Microsoft Basic Render Driver
+D:\bf2editor\Code\BF2\RendDX9\DeviceCaps.cpp(417): VendorId: 1414 SubSysId: 0
+D:\bf2editor\Code\BF2\RendDX9\DeviceCaps.cpp(418): DeviceId: 8c Revision: 0
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 5 ordering: -1000000
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(928): Genuine Intel detected..
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1059): Suggested Scheme detection:
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1060): Actual CPU speed: 2200 MHz, estimated CPU performance: 2200 MHz.
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1061): Physical Memory: 1024 Estimated video memory: 0
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1062): Highest PS Model supported: 3
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1063): GPU Type is: Unknown
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1070): GPU does not have known settings scheme.
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1072): Suggested scheme: Low. Suggested texture quality: Medium
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(236): Unknown DynamicOption value 800x600
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(236): Unknown DynamicOption value Off
+D:\bf2editor\Code\BF2\RendDX9\Ra\EffectManager.cpp(866): Created native dx effect: 09E81328
+D:\bf2editor\Code\BF2\RendDX9\QueryManager.cpp(32): HW supports D3DQUERYTYPE_OCCLUSION
+D:\bf2editor\Code\BF2\RendDX9\QueryManager.cpp(33): HW occlusion culling is default off.
+D:\bf2editor\Code\BF2\RendDX9\QueryManager.cpp(47): HW supports D3DQUERYTYPE_EVENT
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 5 ordering: 0
+D:\bf2editor\Code\BF2\RendDX9\ResourceManager.cpp(140): ResourceManager::setUseDeferredLoading:1
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(128): dep: smallest mip texture dimension allowed: 8
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(41): First PortedFontRend object ctor 108500200 , creating shared resources.
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/PortedFontShader.fx
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: BF2Renderer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "Renderer" was created using class: "dice.hfe.dx9rend.Renderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "Renderer" in added (default class: "dice.hfe.dx9rend.Renderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "PostProductionFrameWork" in added (default class: "Unknown ID 0")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "RenderView" was created using class: "dice.hfe.Rend.RenderView")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "RenderView" in added (default class: "dice.hfe.Rend.RenderView")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "EnvMapManager" was created using class: "dice.hfe.Rend.EnvMapManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "EnvMapManager" in added (default class: "dice.hfe.Rend.EnvMapManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: aLightManager
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(536): Texturemanager cubetexture created: Created from code.
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "LightManager" was created using class: "dice.hfe.geom.LightManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "LightManager" in added (default class: "dice.hfe.geom.LightManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "GeometryTemplateManager" was created using class: "dice.hfe.geom.GeometryTemplateManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "GeometryTemplateManager" in added (default class: "dice.hfe.geom.GeometryTemplateManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 5 ordering: 0
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "StaticMeshRenderer" was created using class: "dice.hfe.geom.StaticMeshRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "StaticMeshRenderer" in added (default class: "dice.hfe.geom.StaticMeshRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: SkinnedMeshRenderer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "SkinnedMeshRenderer" was created using class: "dice.hfe.geom.SkinnedMeshRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "SkinnedMeshRenderer" in added (default class: "dice.hfe.geom.SkinnedMeshRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: shaders/Particles.fx
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: shaders/Trail.fx
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: shaders/NonScreenAlignedParticles.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "ParticleSystemManager" was created using class: "dice.hfe.geom.ParticleSystemManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "ParticleSystemManager" in added (default class: "dice.hfe.geom.ParticleSystemManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "HemiMapManager" was created using class: "dice.hfe.geom.HemiMapManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "HemiMapManager" in added (default class: "dice.hfe.geom.HemiMapManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: shaders/Decals.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DecalManager" was created using class: "dice.hfe.geom.DecalManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DecalManager" in added (default class: "dice.hfe.geom.DecalManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/RoadCompiled.fx
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: RoadCompiledRenderer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "RoadCompiledRenderer" was created using class: "dice.hfe.geom.RoadCompiledRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "RoadCompiledRenderer" in added (default class: "dice.hfe.geom.RoadCompiledRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "RoadEditableRenderer" was created using class: "dice.hfe.geom.RoadEditableRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "RoadEditableRenderer" in added (default class: "dice.hfe.geom.RoadEditableRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 2 ordering: 0
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 1 ordering: 0
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: NameTagRenderer
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: NameTagRenderer
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: NameTagRenderer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "NametagManager" was created using class: "dice.hfe.geom.NametagManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "NametagManager" in added (default class: "dice.hfe.geom.NametagManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/SkyDome.fx
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: SkyDome
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "SkyDome" was created using class: "dice.hfe.geom.SkyDome")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "SkyDome" in added (default class: "dice.hfe.geom.SkyDome")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "UndergrowthSystem" was created using class: "dice.hfe.geom.UndergrowthSystem")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "UndergrowthSystem" in added (default class: "dice.hfe.geom.UndergrowthSystem")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/PortedMenuShader.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "QuadDrawer" was created using class: "dice.hfe.geom.Meme.QuadDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "QuadDrawer" in added (default class: "dice.hfe.geom.Meme.QuadDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/DebugD3DXMeshShapeShader.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugRenderer" was created using class: "dice.hfe.geom.DebugRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugRenderer" in added (default class: "dice.hfe.geom.DebugRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/DebugCircleShader.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugLineDrawer" was created using class: "dice.hfe.geom.DebugLineDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugLineDrawer" in added (default class: "dice.hfe.geom.DebugLineDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugCircleDrawer" was created using class: "dice.hfe.geom.DebugCircleDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugCircleDrawer" in added (default class: "dice.hfe.geom.DebugCircleDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 136467384 , addRef shared resources.
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: DebugTextDrawer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugTextDrawer" was created using class: "dice.hfe.geom.DebugTextDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugTextDrawer" in added (default class: "dice.hfe.geom.DebugTextDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugLineGraphRenderer" was created using class: "dice.hfe.geom.DebugGraphRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugLineGraphRenderer" in added (default class: "dice.hfe.geom.DebugGraphRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugTextWriterManager" was created using class: "dice.hfe.geom.DebugTextWriterManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugTextWriterManager" in added (default class: "dice.hfe.geom.DebugTextWriterManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 108556528 , addRef shared resources.
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugTextWriter" was created using class: "dice.hfe.geom.DebugTextWriter")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugTextWriter" in added (default class: "dice.hfe.geom.DebugTextWriter")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 108769416 , addRef shared resources.
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugTextWriterFixed" was created using class: "dice.hfe.geom.DebugTextWriter")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugTextWriterFixed" in added (default class: "dice.hfe.geom.DebugTextWriter")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(401): Register EventHandler in category 11 ordering: 0
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "FontSystem" was created using class: "dice.hfe.geom.FontSystem")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "FontSystem" in added (default class: "dice.hfe.geom.FontSystem")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "FontRenderer" was created using class: "dice.hfe.geom.FontRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "FontRenderer" in added (default class: "dice.hfe.geom.FontRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/PostProduction_nv3x.fx
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 0 ordering: 0
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: common/textures/noise (as common/textures/noise)
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: common/textures/random (as common/textures/random)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 10 ordering: 0
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/FSQuadDrawer.fx
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: DebugTextDrawer
+D:\bf2editor\Code\BF2\Core\DllLoad.cpp(80): Successfully loaded dll EditorRendDX9.dll
+D:\bf2editor\Code\BF2\Core\DllLoad.cpp(82): Registering new dll with EditorMemory.dll debug subsystem
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(101): mods/bfheroes/ getWritePath:Logs/stats/rend_237_BFH_2018_03_10_09_37_34.bin
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(130): resulting path:mods/bfheroes/Logs/stats/rend_237_BFH_2018_03_10_09_37_34.bin
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Common/Textures/RadialAtt2 (as common/textures/radialatt2)
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Common/Textures/ConicalAtt (as common/textures/conicalatt)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 141131800 , addRef shared resources.
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Fonts/BF1942 (as fonts/bf1942)
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Fonts/BF1942_def (as fonts/bf1942_def)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 141131800 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/Nametag.fx
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Menu/Nametag/loactionArrow.dds (as menu/nametag/loactionarrow)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 108509184 , addRef shared resources.
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 108509184 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 38514296 , addRef shared resources.
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 38514296 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 136467384 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Common/Textures/DepthComplex2 (as common/textures/depthcomplex2)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 108500200 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 108556528 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(80): Unable to open font file "Fonts/system_8x11.font"
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 137498640 , addRef shared resources.
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 137498640 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Menu/Console/white (as menu/console/white)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 0 ordering: 0
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(401): Register EventHandler in category 5 ordering: 1000
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderServer.cpp(254): Trying to load MetaShader RaShaderBM.mfx
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _nothing_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasuvanimation_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasnormalmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasgimap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasenvmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hascockpit_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasshadow_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hascolormapgloss_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasstaticgloss_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasdot3alphatest_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _usehemimap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _pointlight_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TUVAnimationPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TangentSpacePacked8
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::ShadowMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMapConstants
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMapSkyColor
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::GIMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::CubeMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::StaticGloss
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::InvHemiHeightScale
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::UserData
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowProjMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowTrapMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::HeightOverTerrain
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderServer.cpp(254): Trying to load MetaShader RaShaderSM.mfx
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _nothing_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasnormalmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _objspacenormalmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasenvmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasshadow_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _usehemimap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _pointlight_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TangentSpace
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::ShadowMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMapConstants
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMapSkyColor
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HeightOverTerrain
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::CubeMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::Reflectivity
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowProjMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowTrapMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderServer.cpp(254): Trying to load MetaShader RaShaderSTM.mfx
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _base_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _nbase_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _detail_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _ndetail_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _dirt_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _crack_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _ncrack_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _parallaxdetail_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _lightmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _shadow_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _alphatest_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _dirlight_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _pointlight_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TBasePacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TDetailPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TDetailPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TDirtPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TCrackPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TCrackPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TDetailPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TLightMapPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::SinglePointColor
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::ShadowMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::DetailMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::DirtMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::CrackMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::CrackNormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::DetailMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::ParallaxScaleBias
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::LightMapOffset
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::LightMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowProjMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowTrapMat

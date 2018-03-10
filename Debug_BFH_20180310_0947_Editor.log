@@ -1,0 +1,301 @@
+D:\bf2editor\Code\BF2\Core\Profiler.cpp(720): Calibration of profiler took:9.10091e-006 seconds
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(77): Event 1 in cat 5 registered as ECCoreCEChangedSetting
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects_client.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:objects_client.zip path:objects/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/common_client.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:common_client.zip path:common/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/menu_client.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:menu_client.zip path:menu/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/fonts_client.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:fonts_client.zip path:fonts/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/booster_client.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:booster_client.zip path:objects/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/objects_server.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:objects_server.zip path:objects/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/menu_server.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:menu_server.zip path:menu/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/common_server.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:common_server.zip path:common/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/booster_server.zip"
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(692): mountArchive:booster_server.zip path:objects/
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "bf2editor\lightmapsamples01.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "bf2editor\lightmapsamples02.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "bf2editor\lightmapsamples03.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "mods/bf2/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "BF2Editor/Content/Terrain/bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\IO\File\ZipArchive.cpp(323): Couldn't open zip file "bf2editor\lightmapsamples04.zip"
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "hWndBf2TempSlt" in added (default class: "Unknown ID 0")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "rodSpecial" in added (default class: "Unknown ID 0")
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(77): Event 1 in cat 11 registered as ECRendererREToggleFullscreen
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(77): Event 2 in cat 11 registered as ECRendererREChangeResolution
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(77): Event 3 in cat 11 registered as ECRendererREPreChangeResolution
+D:\bf2editor\Code\BF2\RendDX9\RendDX9Enum.cpp(753): Video Memory found: 0 MBs.
+D:\bf2editor\Code\BF2\RendDX9\DeviceCaps.cpp(416): Description: Microsoft Basic Render Driver
+D:\bf2editor\Code\BF2\RendDX9\DeviceCaps.cpp(417): VendorId: 1414 SubSysId: 0
+D:\bf2editor\Code\BF2\RendDX9\DeviceCaps.cpp(418): DeviceId: 8c Revision: 0
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 5 ordering: -1000000
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(928): Genuine Intel detected..
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1059): Suggested Scheme detection:
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1060): Actual CPU speed: 2200 MHz, estimated CPU performance: 2200 MHz.
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1061): Physical Memory: 1024 Estimated video memory: 0
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1062): Highest PS Model supported: 3
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1063): GPU Type is: Unknown
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1070): GPU does not have known settings scheme.
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(1072): Suggested scheme: Low. Suggested texture quality: Medium
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(236): Unknown DynamicOption value 800x600
+D:\bf2editor\Code\BF2\RendDX9\VideoOptions.cpp(236): Unknown DynamicOption value Off
+D:\bf2editor\Code\BF2\RendDX9\Ra\EffectManager.cpp(866): Created native dx effect: 0A901250
+D:\bf2editor\Code\BF2\RendDX9\QueryManager.cpp(32): HW supports D3DQUERYTYPE_OCCLUSION
+D:\bf2editor\Code\BF2\RendDX9\QueryManager.cpp(33): HW occlusion culling is default off.
+D:\bf2editor\Code\BF2\RendDX9\QueryManager.cpp(47): HW supports D3DQUERYTYPE_EVENT
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 5 ordering: 0
+D:\bf2editor\Code\BF2\RendDX9\ResourceManager.cpp(140): ResourceManager::setUseDeferredLoading:1
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(128): dep: smallest mip texture dimension allowed: 8
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(41): First PortedFontRend object ctor 101481808 , creating shared resources.
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/PortedFontShader.fx
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: BF2Renderer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "Renderer" was created using class: "dice.hfe.dx9rend.Renderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "Renderer" in added (default class: "dice.hfe.dx9rend.Renderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "PostProductionFrameWork" in added (default class: "Unknown ID 0")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "RenderView" was created using class: "dice.hfe.Rend.RenderView")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "RenderView" in added (default class: "dice.hfe.Rend.RenderView")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "EnvMapManager" was created using class: "dice.hfe.Rend.EnvMapManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "EnvMapManager" in added (default class: "dice.hfe.Rend.EnvMapManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: aLightManager
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(536): Texturemanager cubetexture created: Created from code.
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "LightManager" was created using class: "dice.hfe.geom.LightManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "LightManager" in added (default class: "dice.hfe.geom.LightManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "GeometryTemplateManager" was created using class: "dice.hfe.geom.GeometryTemplateManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "GeometryTemplateManager" in added (default class: "dice.hfe.geom.GeometryTemplateManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 5 ordering: 0
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "StaticMeshRenderer" was created using class: "dice.hfe.geom.StaticMeshRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "StaticMeshRenderer" in added (default class: "dice.hfe.geom.StaticMeshRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: SkinnedMeshRenderer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "SkinnedMeshRenderer" was created using class: "dice.hfe.geom.SkinnedMeshRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "SkinnedMeshRenderer" in added (default class: "dice.hfe.geom.SkinnedMeshRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: shaders/Particles.fx
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: shaders/Trail.fx
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: shaders/NonScreenAlignedParticles.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "ParticleSystemManager" was created using class: "dice.hfe.geom.ParticleSystemManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "ParticleSystemManager" in added (default class: "dice.hfe.geom.ParticleSystemManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "HemiMapManager" was created using class: "dice.hfe.geom.HemiMapManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "HemiMapManager" in added (default class: "dice.hfe.geom.HemiMapManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: shaders/Decals.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DecalManager" was created using class: "dice.hfe.geom.DecalManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DecalManager" in added (default class: "dice.hfe.geom.DecalManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/RoadCompiled.fx
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: RoadCompiledRenderer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "RoadCompiledRenderer" was created using class: "dice.hfe.geom.RoadCompiledRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "RoadCompiledRenderer" in added (default class: "dice.hfe.geom.RoadCompiledRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "RoadEditableRenderer" was created using class: "dice.hfe.geom.RoadEditableRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "RoadEditableRenderer" in added (default class: "dice.hfe.geom.RoadEditableRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 2 ordering: 0
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 1 ordering: 0
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: NameTagRenderer
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: NameTagRenderer
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: NameTagRenderer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "NametagManager" was created using class: "dice.hfe.geom.NametagManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "NametagManager" in added (default class: "dice.hfe.geom.NametagManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/SkyDome.fx
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: SkyDome
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "SkyDome" was created using class: "dice.hfe.geom.SkyDome")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "SkyDome" in added (default class: "dice.hfe.geom.SkyDome")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "UndergrowthSystem" was created using class: "dice.hfe.geom.UndergrowthSystem")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "UndergrowthSystem" in added (default class: "dice.hfe.geom.UndergrowthSystem")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/PortedMenuShader.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "QuadDrawer" was created using class: "dice.hfe.geom.Meme.QuadDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "QuadDrawer" in added (default class: "dice.hfe.geom.Meme.QuadDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/DebugD3DXMeshShapeShader.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugRenderer" was created using class: "dice.hfe.geom.DebugRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugRenderer" in added (default class: "dice.hfe.geom.DebugRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/DebugCircleShader.fx
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugLineDrawer" was created using class: "dice.hfe.geom.DebugLineDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugLineDrawer" in added (default class: "dice.hfe.geom.DebugLineDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugCircleDrawer" was created using class: "dice.hfe.geom.DebugCircleDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugCircleDrawer" in added (default class: "dice.hfe.geom.DebugCircleDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 102207512 , addRef shared resources.
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: DebugTextDrawer
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugTextDrawer" was created using class: "dice.hfe.geom.DebugTextDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugTextDrawer" in added (default class: "dice.hfe.geom.DebugTextDrawer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugLineGraphRenderer" was created using class: "dice.hfe.geom.DebugGraphRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugLineGraphRenderer" in added (default class: "dice.hfe.geom.DebugGraphRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugTextWriterManager" was created using class: "dice.hfe.geom.DebugTextWriterManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugTextWriterManager" in added (default class: "dice.hfe.geom.DebugTextWriterManager")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 133836784 , addRef shared resources.
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugTextWriter" was created using class: "dice.hfe.geom.DebugTextWriter")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugTextWriter" in added (default class: "dice.hfe.geom.DebugTextWriter")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 133840000 , addRef shared resources.
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "DebugTextWriterFixed" was created using class: "dice.hfe.geom.DebugTextWriter")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "DebugTextWriterFixed" in added (default class: "dice.hfe.geom.DebugTextWriter")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(401): Register EventHandler in category 11 ordering: 0
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "FontSystem" was created using class: "dice.hfe.geom.FontSystem")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "FontSystem" in added (default class: "dice.hfe.geom.FontSystem")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(306): Singleton "FontRenderer" was created using class: "dice.hfe.geom.FontRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(327): Singleton "FontRenderer" in added (default class: "dice.hfe.geom.FontRenderer")
+D:\bf2editor\Code\BF2\Core\ClassManager.cpp(329): Singleton created (immediatecreation)
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/PostProduction_nv3x.fx
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 0 ordering: 0
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: common/textures/noise (as common/textures/noise)
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: common/textures/random (as common/textures/random)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 10 ordering: 0
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/FSQuadDrawer.fx
+D:\bf2editor\Code\BF2\RendDX9\RenderPathServer.cpp(28): IRenderPathClient added: DebugTextDrawer
+D:\bf2editor\Code\BF2\Core\DllLoad.cpp(80): Successfully loaded dll EditorRendDX9.dll
+D:\bf2editor\Code\BF2\Core\DllLoad.cpp(82): Registering new dll with EditorMemory.dll debug subsystem
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(101): mods/bf2/ getWritePath:Logs/stats/rend_237_BFH_2018_03_10_09_47_53.bin
+D:\bf2editor\Code\BF2\IO\File\FileManager.cpp(130): resulting path:mods/bf2/Logs/stats/rend_237_BFH_2018_03_10_09_47_53.bin
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Common/Textures/RadialAtt2 (as common/textures/radialatt2)
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Common/Textures/ConicalAtt (as common/textures/conicalatt)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 150447216 , addRef shared resources.
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Fonts/BF1942 (as fonts/bf1942)
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Fonts/BF1942_def (as fonts/bf1942_def)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 150447216 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\RendDX9\ShaderManager.cpp(166): Effect loaded: Shaders/Nametag.fx
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Menu/Nametag/loactionArrow.dds (as menu/nametag/loactionarrow)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 158867480 , addRef shared resources.
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 158867480 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 133879016 , addRef shared resources.
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 133879016 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 102207512 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Common/Textures/DepthComplex2 (as common/textures/depthcomplex2)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 101481808 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 133836784 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Fonts/system_8x11 (as fonts/system_8x11)
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Fonts/system_8x11_def (as fonts/system_8x11_def)
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 133840000 loaded as Fonts/system_8x11
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(51): Additional PortedFontRend object ctor 158166016 , addRef shared resources.
+D:\bf2editor\Code\BF2\GeomMisc\FontRenderer\PortedFontRend.cpp(157): PortedFontRend 158166016 loaded as Fonts/BF1942
+D:\bf2editor\Code\BF2\RendDX9\TextureManager.cpp(205): Texture scheduled for loading: Menu/Console/white (as menu/console/white)
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(390): Register EventHandler in category 0 ordering: 0
+D:\bf2editor\Code\BF2\Core\EventManager.cpp(401): Register EventHandler in category 5 ordering: 1000
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderServer.cpp(254): Trying to load MetaShader RaShaderBM.mfx
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _nothing_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasuvanimation_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasnormalmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasgimap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasenvmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hascockpit_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasshadow_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hascolormapgloss_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasstaticgloss_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasdot3alphatest_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _usehemimap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _pointlight_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TUVAnimationPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TangentSpacePacked8
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::ShadowMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMapConstants
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMapSkyColor
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::GIMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::CubeMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::StaticGloss
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::InvHemiHeightScale
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::UserData
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowProjMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowTrapMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::HeightOverTerrain
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderServer.cpp(254): Trying to load MetaShader RaShaderSM.mfx
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _nothing_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasnormalmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _objspacenormalmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasenvmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _hasshadow_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _usehemimap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _pointlight_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TangentSpace
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::ShadowMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMapConstants
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HemiMapSkyColor
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::HeightOverTerrain
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::CubeMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::Reflectivity
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowProjMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowTrapMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderServer.cpp(254): Trying to load MetaShader RaShaderSTM.mfx
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _base_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _nbase_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _detail_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _ndetail_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _dirt_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _crack_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _ncrack_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _parallaxdetail_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _lightmap_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _shadow_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _alphatest_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _dirlight_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(146): Found literal: _pointlight_
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TBasePacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TDetailPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TDetailPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TDirtPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TCrackPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TCrackPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TDetailPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data reqVertexElement::TLightMapPacked2D
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::SinglePointColor
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data GlobalParameters::ShadowMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::DetailMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::DirtMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::CrackMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::CrackNormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::DetailMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::NormalMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data TemplateParameters::ParallaxScaleBias
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::LightMapOffset
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::LightMap
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowProjMat
+D:\bf2editor\Code\BF2\RendDX9\Ra\RaShaderPermutator.cpp(258): Found existing data InstanceParameters::ShadowTrapMat
